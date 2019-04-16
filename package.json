@@ -1,0 +1,5 @@
+{
+  "name": "kafka-consumer-app",
+  "private": true,
+  "dependencies": {}
+}
